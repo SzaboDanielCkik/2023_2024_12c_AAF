@@ -1,0 +1,7 @@
+H:\2023-2024\12.c AAF\2023_09_11_Objektumok\2023_09_11_Objektumok\bin\Debug\2023_09_11_Objektumok.exe.config
+H:\2023-2024\12.c AAF\2023_09_11_Objektumok\2023_09_11_Objektumok\bin\Debug\2023_09_11_Objektumok.exe
+H:\2023-2024\12.c AAF\2023_09_11_Objektumok\2023_09_11_Objektumok\bin\Debug\2023_09_11_Objektumok.pdb
+H:\2023-2024\12.c AAF\2023_09_11_Objektumok\2023_09_11_Objektumok\obj\Debug\2023_09_11_Objektumok.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2023_09_11_Objektumok\2023_09_11_Objektumok\obj\Debug\2023_09_11_Objektumok.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2023_09_11_Objektumok\2023_09_11_Objektumok\obj\Debug\2023_09_11_Objektumok.exe
+H:\2023-2024\12.c AAF\2023_09_11_Objektumok\2023_09_11_Objektumok\obj\Debug\2023_09_11_Objektumok.pdb
