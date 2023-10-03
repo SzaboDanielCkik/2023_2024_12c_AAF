@@ -1,0 +1,7 @@
+H:\2023-2024\12.c AAF\2023_10_03_OsztalyGyak\2023_10_03_OsztalyGyak\bin\Debug\2023_10_03_OsztalyGyak.exe.config
+H:\2023-2024\12.c AAF\2023_10_03_OsztalyGyak\2023_10_03_OsztalyGyak\bin\Debug\2023_10_03_OsztalyGyak.exe
+H:\2023-2024\12.c AAF\2023_10_03_OsztalyGyak\2023_10_03_OsztalyGyak\bin\Debug\2023_10_03_OsztalyGyak.pdb
+H:\2023-2024\12.c AAF\2023_10_03_OsztalyGyak\2023_10_03_OsztalyGyak\obj\Debug\2023_10_03_OsztalyGyak.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2023_10_03_OsztalyGyak\2023_10_03_OsztalyGyak\obj\Debug\2023_10_03_OsztalyGyak.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2023_10_03_OsztalyGyak\2023_10_03_OsztalyGyak\obj\Debug\2023_10_03_OsztalyGyak.exe
+H:\2023-2024\12.c AAF\2023_10_03_OsztalyGyak\2023_10_03_OsztalyGyak\obj\Debug\2023_10_03_OsztalyGyak.pdb

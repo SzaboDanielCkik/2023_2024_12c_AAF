@@ -1,0 +1,7 @@
+H:\2023-2024\12.c AAF\2023_09_18_2005_maj_Lotto\2023_09_18_2005_maj_Lotto\bin\Debug\2023_09_18_2005_maj_Lotto.exe.config
+H:\2023-2024\12.c AAF\2023_09_18_2005_maj_Lotto\2023_09_18_2005_maj_Lotto\bin\Debug\2023_09_18_2005_maj_Lotto.exe
+H:\2023-2024\12.c AAF\2023_09_18_2005_maj_Lotto\2023_09_18_2005_maj_Lotto\bin\Debug\2023_09_18_2005_maj_Lotto.pdb
+H:\2023-2024\12.c AAF\2023_09_18_2005_maj_Lotto\2023_09_18_2005_maj_Lotto\obj\Debug\2023_09_18_2005_maj_Lotto.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2023_09_18_2005_maj_Lotto\2023_09_18_2005_maj_Lotto\obj\Debug\2023_09_18_2005_maj_Lotto.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2023_09_18_2005_maj_Lotto\2023_09_18_2005_maj_Lotto\obj\Debug\2023_09_18_2005_maj_Lotto.exe
+H:\2023-2024\12.c AAF\2023_09_18_2005_maj_Lotto\2023_09_18_2005_maj_Lotto\obj\Debug\2023_09_18_2005_maj_Lotto.pdb
