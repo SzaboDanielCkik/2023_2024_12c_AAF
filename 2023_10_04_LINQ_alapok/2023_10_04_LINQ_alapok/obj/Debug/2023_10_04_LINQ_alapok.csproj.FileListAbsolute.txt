@@ -1,0 +1,7 @@
+H:\2023-2024\12.c AAF\2023_10_04_LINQ_alapok\2023_10_04_LINQ_alapok\bin\Debug\2023_10_04_LINQ_alapok.exe.config
+H:\2023-2024\12.c AAF\2023_10_04_LINQ_alapok\2023_10_04_LINQ_alapok\bin\Debug\2023_10_04_LINQ_alapok.exe
+H:\2023-2024\12.c AAF\2023_10_04_LINQ_alapok\2023_10_04_LINQ_alapok\bin\Debug\2023_10_04_LINQ_alapok.pdb
+H:\2023-2024\12.c AAF\2023_10_04_LINQ_alapok\2023_10_04_LINQ_alapok\obj\Debug\2023_10_04_LINQ_alapok.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2023_10_04_LINQ_alapok\2023_10_04_LINQ_alapok\obj\Debug\2023_10_04_LINQ_alapok.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2023_10_04_LINQ_alapok\2023_10_04_LINQ_alapok\obj\Debug\2023_10_04_LINQ_alapok.exe
+H:\2023-2024\12.c AAF\2023_10_04_LINQ_alapok\2023_10_04_LINQ_alapok\obj\Debug\2023_10_04_LINQ_alapok.pdb

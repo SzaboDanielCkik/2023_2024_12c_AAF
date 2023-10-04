@@ -1,0 +1,5 @@
+emberek.GorupBy(x=>x.valami)
+	   .Select(csoport=> new {
+		kulcs=csoport.Key,
+		ertek=csoport.Select(x=>x.kor).Sum()
+	   })
