@@ -1,0 +1,7 @@
+H:\2023-2024\12.c AAF\2023_10_16_Linq_gyakorlas\2023_10_16_Linq_gyakorlas\bin\Debug\2023_10_16_Linq_gyakorlas.exe.config
+H:\2023-2024\12.c AAF\2023_10_16_Linq_gyakorlas\2023_10_16_Linq_gyakorlas\bin\Debug\2023_10_16_Linq_gyakorlas.exe
+H:\2023-2024\12.c AAF\2023_10_16_Linq_gyakorlas\2023_10_16_Linq_gyakorlas\bin\Debug\2023_10_16_Linq_gyakorlas.pdb
+H:\2023-2024\12.c AAF\2023_10_16_Linq_gyakorlas\2023_10_16_Linq_gyakorlas\obj\Debug\2023_10_16_Linq_gyakorlas.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2023_10_16_Linq_gyakorlas\2023_10_16_Linq_gyakorlas\obj\Debug\2023_10_16_Linq_gyakorlas.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2023_10_16_Linq_gyakorlas\2023_10_16_Linq_gyakorlas\obj\Debug\2023_10_16_Linq_gyakorlas.exe
+H:\2023-2024\12.c AAF\2023_10_16_Linq_gyakorlas\2023_10_16_Linq_gyakorlas\obj\Debug\2023_10_16_Linq_gyakorlas.pdb

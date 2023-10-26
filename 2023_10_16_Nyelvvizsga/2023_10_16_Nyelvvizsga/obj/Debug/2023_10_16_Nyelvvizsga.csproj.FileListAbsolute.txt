@@ -1,0 +1,7 @@
+H:\2023-2024\12.c AAF\2023_10_16_Nyelvvizsga\2023_10_16_Nyelvvizsga\bin\Debug\2023_10_16_Nyelvvizsga.exe.config
+H:\2023-2024\12.c AAF\2023_10_16_Nyelvvizsga\2023_10_16_Nyelvvizsga\bin\Debug\2023_10_16_Nyelvvizsga.exe
+H:\2023-2024\12.c AAF\2023_10_16_Nyelvvizsga\2023_10_16_Nyelvvizsga\bin\Debug\2023_10_16_Nyelvvizsga.pdb
+H:\2023-2024\12.c AAF\2023_10_16_Nyelvvizsga\2023_10_16_Nyelvvizsga\obj\Debug\2023_10_16_Nyelvvizsga.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2023_10_16_Nyelvvizsga\2023_10_16_Nyelvvizsga\obj\Debug\2023_10_16_Nyelvvizsga.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2023_10_16_Nyelvvizsga\2023_10_16_Nyelvvizsga\obj\Debug\2023_10_16_Nyelvvizsga.exe
+H:\2023-2024\12.c AAF\2023_10_16_Nyelvvizsga\2023_10_16_Nyelvvizsga\obj\Debug\2023_10_16_Nyelvvizsga.pdb

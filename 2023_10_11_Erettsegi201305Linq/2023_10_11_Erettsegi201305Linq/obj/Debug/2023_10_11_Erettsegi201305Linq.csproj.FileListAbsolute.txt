@@ -1,0 +1,7 @@
+h:\2023-2024\12.c AAF\2023_10_11_Erettsegi201305Linq\2023_10_11_Erettsegi201305Linq\bin\Debug\2023_10_11_Erettsegi201305Linq.exe.config
+h:\2023-2024\12.c AAF\2023_10_11_Erettsegi201305Linq\2023_10_11_Erettsegi201305Linq\bin\Debug\2023_10_11_Erettsegi201305Linq.exe
+h:\2023-2024\12.c AAF\2023_10_11_Erettsegi201305Linq\2023_10_11_Erettsegi201305Linq\bin\Debug\2023_10_11_Erettsegi201305Linq.pdb
+h:\2023-2024\12.c AAF\2023_10_11_Erettsegi201305Linq\2023_10_11_Erettsegi201305Linq\obj\Debug\2023_10_11_Erettsegi201305Linq.csproj.AssemblyReference.cache
+h:\2023-2024\12.c AAF\2023_10_11_Erettsegi201305Linq\2023_10_11_Erettsegi201305Linq\obj\Debug\2023_10_11_Erettsegi201305Linq.csproj.CoreCompileInputs.cache
+h:\2023-2024\12.c AAF\2023_10_11_Erettsegi201305Linq\2023_10_11_Erettsegi201305Linq\obj\Debug\2023_10_11_Erettsegi201305Linq.exe
+h:\2023-2024\12.c AAF\2023_10_11_Erettsegi201305Linq\2023_10_11_Erettsegi201305Linq\obj\Debug\2023_10_11_Erettsegi201305Linq.pdb

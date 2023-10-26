@@ -1,0 +1,7 @@
+H:\2023-2024\12.c AAF\2023_10_12_Kosarlabda\2023_10_12_Kosarlabda\bin\Debug\2023_10_12_Kosarlabda.exe.config
+H:\2023-2024\12.c AAF\2023_10_12_Kosarlabda\2023_10_12_Kosarlabda\bin\Debug\2023_10_12_Kosarlabda.exe
+H:\2023-2024\12.c AAF\2023_10_12_Kosarlabda\2023_10_12_Kosarlabda\bin\Debug\2023_10_12_Kosarlabda.pdb
+H:\2023-2024\12.c AAF\2023_10_12_Kosarlabda\2023_10_12_Kosarlabda\obj\Debug\2023_10_12_Kosarlabda.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2023_10_12_Kosarlabda\2023_10_12_Kosarlabda\obj\Debug\2023_10_12_Kosarlabda.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2023_10_12_Kosarlabda\2023_10_12_Kosarlabda\obj\Debug\2023_10_12_Kosarlabda.exe
+H:\2023-2024\12.c AAF\2023_10_12_Kosarlabda\2023_10_12_Kosarlabda\obj\Debug\2023_10_12_Kosarlabda.pdb
