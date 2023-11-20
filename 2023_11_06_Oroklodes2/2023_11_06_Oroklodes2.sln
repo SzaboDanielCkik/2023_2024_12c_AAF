@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2023_11_06_Oroklodes2", "2023_11_06_Oroklodes2\2023_11_06_Oroklodes2.csproj", "{5147F67C-CE4D-4A43-8FDF-FDE21A61E72B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5147F67C-CE4D-4A43-8FDF-FDE21A61E72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5147F67C-CE4D-4A43-8FDF-FDE21A61E72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5147F67C-CE4D-4A43-8FDF-FDE21A61E72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5147F67C-CE4D-4A43-8FDF-FDE21A61E72B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC79B3B5-CEFB-4EF3-92FE-1E3D15B6E2B3}
+	EndGlobalSection
+EndGlobal

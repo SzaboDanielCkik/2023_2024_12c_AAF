@@ -1,0 +1,7 @@
+H:\2023-2024\12.c AAF\2023_11_08_Interface\2023_11_08_Interface\bin\Debug\2023_11_08_Interface.exe.config
+H:\2023-2024\12.c AAF\2023_11_08_Interface\2023_11_08_Interface\bin\Debug\2023_11_08_Interface.exe
+H:\2023-2024\12.c AAF\2023_11_08_Interface\2023_11_08_Interface\bin\Debug\2023_11_08_Interface.pdb
+H:\2023-2024\12.c AAF\2023_11_08_Interface\2023_11_08_Interface\obj\Debug\2023_11_08_Interface.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2023_11_08_Interface\2023_11_08_Interface\obj\Debug\2023_11_08_Interface.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2023_11_08_Interface\2023_11_08_Interface\obj\Debug\2023_11_08_Interface.exe
+H:\2023-2024\12.c AAF\2023_11_08_Interface\2023_11_08_Interface\obj\Debug\2023_11_08_Interface.pdb

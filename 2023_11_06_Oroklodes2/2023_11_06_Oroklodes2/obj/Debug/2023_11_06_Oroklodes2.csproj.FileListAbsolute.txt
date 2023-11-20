@@ -1,0 +1,7 @@
+H:\2023-2024\12.c AAF\2023_11_06_Oroklodes2\2023_11_06_Oroklodes2\bin\Debug\2023_11_06_Oroklodes2.exe.config
+H:\2023-2024\12.c AAF\2023_11_06_Oroklodes2\2023_11_06_Oroklodes2\bin\Debug\2023_11_06_Oroklodes2.exe
+H:\2023-2024\12.c AAF\2023_11_06_Oroklodes2\2023_11_06_Oroklodes2\bin\Debug\2023_11_06_Oroklodes2.pdb
+H:\2023-2024\12.c AAF\2023_11_06_Oroklodes2\2023_11_06_Oroklodes2\obj\Debug\2023_11_06_Oroklodes2.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2023_11_06_Oroklodes2\2023_11_06_Oroklodes2\obj\Debug\2023_11_06_Oroklodes2.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2023_11_06_Oroklodes2\2023_11_06_Oroklodes2\obj\Debug\2023_11_06_Oroklodes2.exe
+H:\2023-2024\12.c AAF\2023_11_06_Oroklodes2\2023_11_06_Oroklodes2\obj\Debug\2023_11_06_Oroklodes2.pdb
