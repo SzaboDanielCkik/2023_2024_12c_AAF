@@ -1,0 +1,10 @@
+H:\2023-2024\12.c AAF\2023_12_05_GUI_kooridnatageometria\2023_12_05_GUI_kooridnatageometria\bin\Debug\2023_12_05_GUI_kooridnatageometria.exe.config
+H:\2023-2024\12.c AAF\2023_12_05_GUI_kooridnatageometria\2023_12_05_GUI_kooridnatageometria\bin\Debug\2023_12_05_GUI_kooridnatageometria.exe
+H:\2023-2024\12.c AAF\2023_12_05_GUI_kooridnatageometria\2023_12_05_GUI_kooridnatageometria\bin\Debug\2023_12_05_GUI_kooridnatageometria.pdb
+H:\2023-2024\12.c AAF\2023_12_05_GUI_kooridnatageometria\2023_12_05_GUI_kooridnatageometria\obj\Debug\2023_12_05_GUI_kooridnatageometria.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2023_12_05_GUI_kooridnatageometria\2023_12_05_GUI_kooridnatageometria\obj\Debug\_2023_12_05_GUI_kooridnatageometria.Form1.resources
+H:\2023-2024\12.c AAF\2023_12_05_GUI_kooridnatageometria\2023_12_05_GUI_kooridnatageometria\obj\Debug\_2023_12_05_GUI_kooridnatageometria.Properties.Resources.resources
+H:\2023-2024\12.c AAF\2023_12_05_GUI_kooridnatageometria\2023_12_05_GUI_kooridnatageometria\obj\Debug\2023_12_05_GUI_kooridnatageometria.csproj.GenerateResource.cache
+H:\2023-2024\12.c AAF\2023_12_05_GUI_kooridnatageometria\2023_12_05_GUI_kooridnatageometria\obj\Debug\2023_12_05_GUI_kooridnatageometria.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2023_12_05_GUI_kooridnatageometria\2023_12_05_GUI_kooridnatageometria\obj\Debug\2023_12_05_GUI_kooridnatageometria.exe
+H:\2023-2024\12.c AAF\2023_12_05_GUI_kooridnatageometria\2023_12_05_GUI_kooridnatageometria\obj\Debug\2023_12_05_GUI_kooridnatageometria.pdb

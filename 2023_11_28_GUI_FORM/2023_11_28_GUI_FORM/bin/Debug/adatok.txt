@@ -1,0 +1,6 @@
+True;Napóleon;1812;Napóleon;Josephine
+False;ad;1;
+False;dfg;2023;wert;dsfg;ret
+False;rth;1;ert;ghjhth;rtwert
+False;;0;
+False;;0;

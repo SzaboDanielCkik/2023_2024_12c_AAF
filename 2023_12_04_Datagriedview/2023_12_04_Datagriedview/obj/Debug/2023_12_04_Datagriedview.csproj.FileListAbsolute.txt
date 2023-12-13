@@ -1,0 +1,10 @@
+H:\2023-2024\12.c AAF\2023_12_04_Datagriedview\2023_12_04_Datagriedview\bin\Debug\2023_12_04_Datagriedview.exe.config
+H:\2023-2024\12.c AAF\2023_12_04_Datagriedview\2023_12_04_Datagriedview\bin\Debug\2023_12_04_Datagriedview.exe
+H:\2023-2024\12.c AAF\2023_12_04_Datagriedview\2023_12_04_Datagriedview\bin\Debug\2023_12_04_Datagriedview.pdb
+H:\2023-2024\12.c AAF\2023_12_04_Datagriedview\2023_12_04_Datagriedview\obj\Debug\2023_12_04_Datagriedview.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2023_12_04_Datagriedview\2023_12_04_Datagriedview\obj\Debug\_2023_12_04_Datagriedview.Form1.resources
+H:\2023-2024\12.c AAF\2023_12_04_Datagriedview\2023_12_04_Datagriedview\obj\Debug\_2023_12_04_Datagriedview.Properties.Resources.resources
+H:\2023-2024\12.c AAF\2023_12_04_Datagriedview\2023_12_04_Datagriedview\obj\Debug\2023_12_04_Datagriedview.csproj.GenerateResource.cache
+H:\2023-2024\12.c AAF\2023_12_04_Datagriedview\2023_12_04_Datagriedview\obj\Debug\2023_12_04_Datagriedview.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2023_12_04_Datagriedview\2023_12_04_Datagriedview\obj\Debug\2023_12_04_Datagriedview.exe
+H:\2023-2024\12.c AAF\2023_12_04_Datagriedview\2023_12_04_Datagriedview\obj\Debug\2023_12_04_Datagriedview.pdb
