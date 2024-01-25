@@ -1,0 +1,10 @@
+H:\2023-2024\12.c AAF\2024_01_18_GUIAutoszerloMuhely\2024_01_18_GUIAutoszerloMuhely\obj\Debug\2024_01_18_GUIAutoszerloMuhely.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2024_01_18_GUIAutoszerloMuhely\2024_01_18_GUIAutoszerloMuhely\obj\Debug\_2024_01_18_GUIAutoszerloMuhely.Form1.resources
+H:\2023-2024\12.c AAF\2024_01_18_GUIAutoszerloMuhely\2024_01_18_GUIAutoszerloMuhely\obj\Debug\_2024_01_18_GUIAutoszerloMuhely.Properties.Resources.resources
+H:\2023-2024\12.c AAF\2024_01_18_GUIAutoszerloMuhely\2024_01_18_GUIAutoszerloMuhely\obj\Debug\2024_01_18_GUIAutoszerloMuhely.csproj.GenerateResource.cache
+H:\2023-2024\12.c AAF\2024_01_18_GUIAutoszerloMuhely\2024_01_18_GUIAutoszerloMuhely\obj\Debug\2024_01_18_GUIAutoszerloMuhely.csproj.CoreCompileInputs.cache
+h:\2023-2024\12.c AAF\2024_01_18_GUIAutoszerloMuhely\2024_01_18_GUIAutoszerloMuhely\bin\Debug\2024_01_18_GUIAutoszerloMuhely.exe.config
+h:\2023-2024\12.c AAF\2024_01_18_GUIAutoszerloMuhely\2024_01_18_GUIAutoszerloMuhely\bin\Debug\2024_01_18_GUIAutoszerloMuhely.exe
+h:\2023-2024\12.c AAF\2024_01_18_GUIAutoszerloMuhely\2024_01_18_GUIAutoszerloMuhely\bin\Debug\2024_01_18_GUIAutoszerloMuhely.pdb
+h:\2023-2024\12.c AAF\2024_01_18_GUIAutoszerloMuhely\2024_01_18_GUIAutoszerloMuhely\obj\Debug\2024_01_18_GUIAutoszerloMuhely.exe
+h:\2023-2024\12.c AAF\2024_01_18_GUIAutoszerloMuhely\2024_01_18_GUIAutoszerloMuhely\obj\Debug\2024_01_18_GUIAutoszerloMuhely.pdb

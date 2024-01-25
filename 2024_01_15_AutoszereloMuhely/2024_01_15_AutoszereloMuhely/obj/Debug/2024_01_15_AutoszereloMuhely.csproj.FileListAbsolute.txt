@@ -1,0 +1,14 @@
+H:\2023-2024\11.c csop 2 AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\obj\Debug\2024_01_15_AutoszereloMuhely.csproj.AssemblyReference.cache
+H:\2023-2024\11.c csop 2 AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\obj\Debug\2024_01_15_AutoszereloMuhely.csproj.CoreCompileInputs.cache
+H:\2023-2024\11.c csop 2 AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\bin\Debug\2024_01_15_AutoszereloMuhely.exe.config
+H:\2023-2024\11.c csop 2 AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\bin\Debug\2024_01_15_AutoszereloMuhely.exe
+H:\2023-2024\11.c csop 2 AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\bin\Debug\2024_01_15_AutoszereloMuhely.pdb
+H:\2023-2024\11.c csop 2 AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\obj\Debug\2024_01_15_AutoszereloMuhely.exe
+H:\2023-2024\11.c csop 2 AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\obj\Debug\2024_01_15_AutoszereloMuhely.pdb
+h:\2023-2024\12.c AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\bin\Debug\2024_01_15_AutoszereloMuhely.exe.config
+h:\2023-2024\12.c AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\bin\Debug\2024_01_15_AutoszereloMuhely.exe
+h:\2023-2024\12.c AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\bin\Debug\2024_01_15_AutoszereloMuhely.pdb
+h:\2023-2024\12.c AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\obj\Debug\2024_01_15_AutoszereloMuhely.csproj.AssemblyReference.cache
+h:\2023-2024\12.c AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\obj\Debug\2024_01_15_AutoszereloMuhely.csproj.CoreCompileInputs.cache
+h:\2023-2024\12.c AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\obj\Debug\2024_01_15_AutoszereloMuhely.exe
+h:\2023-2024\12.c AAF\2024_01_15_AutoszereloMuhely\2024_01_15_AutoszereloMuhely\obj\Debug\2024_01_15_AutoszereloMuhely.pdb
