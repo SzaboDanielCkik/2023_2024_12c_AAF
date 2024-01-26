@@ -44,8 +44,52 @@ namespace _2024_01_24_MySQL
             MySqlDataReader reader = cmd.ExecuteReader();
             while (reader.Read())
             {
+                Console.WriteLine(reader[0]);
+            }
+            ConnClose();
+        }
+
+        public bool TablaAdatai(string tablaNev)
+        {
+            bool good = false;
+            ConnOpen();
+            string command = $"select * from {tablaNev};";
+            MySqlCommand cmd = new MySqlCommand(command, kapcsolat);
+            try
+            {
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    for (int i = 0; i < reader.FieldCount; i++)
+                        Console.Write(reader[i] + " ");
+                    Console.WriteLine();
+                }
+                good = true;
+            }
+            catch (MySqlException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            ConnClose();
+            return good;
+        }
+
+        public void TablaAdatai()
+        {
+            ConnOpen();
+            string command = $"select * from gazda;";
+            MySqlCommand cmd = new MySqlCommand(command, kapcsolat);
+            MySqlDataReader reader = cmd.ExecuteReader();
+            while (reader.Read())
+            {
+                //Console.WriteLine(reader.GetInt32(0)+" "+reader.GetString(1)+" "+reader.GetInt32(2));
+                //Console.WriteLine(reader["id"]+" "+reader["nev"]+" "+reader["kerulet"]);
+                //Console.WriteLine(reader[0]+" "+reader[1]+" "+reader[2]);
+                for (int i = 0; i < reader.FieldCount; i++)
+                    Console.Write(reader[i] + " ");
                 Console.WriteLine();
             }
+            ConnClose();
         }
 
     }
