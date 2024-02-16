@@ -1,0 +1,39 @@
+﻿<Window x:Class="_2024_02_13_WPF_Alapok.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2024_02_13_WPF_Alapok"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="GridMain">
+        <Button x:Name="btnpl" Content="Button" HorizontalAlignment="Left" 
+                Margin="10,10,0,0" VerticalAlignment="Top" 
+                Width="139" Height="48" Click="Button_Click" 
+                MouseEnter="Btn_MouseE"/>
+        <Button Margin="273,70,289,199">
+            <ListBox>
+                <ListBoxItem>listaelem 1</ListBoxItem>
+                <ListBoxItem>listaelem 2</ListBoxItem>
+                <ListBoxItem>listaelem 3</ListBoxItem>
+                <CheckBox>Piros</CheckBox>
+                <CheckBox Content="kék"/>
+            </ListBox>
+
+        </Button>
+        <Button Width="150" Height="50" Margin="10,89,632,280" >
+            <Button.Content>
+                <Rectangle Fill="Red" Width="20" Height="20"/>
+            </Button.Content>
+        </Button>
+        <Button Width="150" Height="50" Margin="10,170,632,199">
+            <Button.Background>
+                <SolidColorBrush>
+                    <SolidColorBrush.Color>
+                        <Color R="0" G="255" B="0" A="255" />
+                    </SolidColorBrush.Color>
+                </SolidColorBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

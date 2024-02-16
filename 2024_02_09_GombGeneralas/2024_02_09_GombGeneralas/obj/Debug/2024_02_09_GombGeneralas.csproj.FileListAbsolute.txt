@@ -1,0 +1,10 @@
+H:\2023-2024\12.c AAF\2024_02_09_GombGeneralas\2024_02_09_GombGeneralas\bin\Debug\2024_02_09_GombGeneralas.exe.config
+H:\2023-2024\12.c AAF\2024_02_09_GombGeneralas\2024_02_09_GombGeneralas\bin\Debug\2024_02_09_GombGeneralas.exe
+H:\2023-2024\12.c AAF\2024_02_09_GombGeneralas\2024_02_09_GombGeneralas\bin\Debug\2024_02_09_GombGeneralas.pdb
+H:\2023-2024\12.c AAF\2024_02_09_GombGeneralas\2024_02_09_GombGeneralas\obj\Debug\2024_02_09_GombGeneralas.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2024_02_09_GombGeneralas\2024_02_09_GombGeneralas\obj\Debug\_2024_02_09_GombGeneralas.Form1.resources
+H:\2023-2024\12.c AAF\2024_02_09_GombGeneralas\2024_02_09_GombGeneralas\obj\Debug\_2024_02_09_GombGeneralas.Properties.Resources.resources
+H:\2023-2024\12.c AAF\2024_02_09_GombGeneralas\2024_02_09_GombGeneralas\obj\Debug\2024_02_09_GombGeneralas.csproj.GenerateResource.cache
+H:\2023-2024\12.c AAF\2024_02_09_GombGeneralas\2024_02_09_GombGeneralas\obj\Debug\2024_02_09_GombGeneralas.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2024_02_09_GombGeneralas\2024_02_09_GombGeneralas\obj\Debug\2024_02_09_GombGeneralas.exe
+H:\2023-2024\12.c AAF\2024_02_09_GombGeneralas\2024_02_09_GombGeneralas\obj\Debug\2024_02_09_GombGeneralas.pdb

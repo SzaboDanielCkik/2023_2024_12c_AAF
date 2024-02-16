@@ -92,5 +92,19 @@ namespace _2024_01_24_MySQL
             ConnClose();
         }
 
+        public void Lekerdezes(string command)
+        {
+            ConnOpen();
+            MySqlCommand cmd = new MySqlCommand(command, kapcsolat);
+            MySqlDataReader reader = cmd.ExecuteReader();
+            while (reader.Read())
+            {                
+                for (int i = 0; i < reader.FieldCount; i++)
+                    Console.Write(reader[i] + " ");
+                Console.WriteLine();
+            }
+            ConnClose();
+        }
+
     }
 }

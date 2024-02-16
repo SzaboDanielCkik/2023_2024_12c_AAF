@@ -1,0 +1,15 @@
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\bin\Debug\2024_02_13_WPF_Alapok.exe.config
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\bin\Debug\2024_02_13_WPF_Alapok.exe
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\bin\Debug\2024_02_13_WPF_Alapok.pdb
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\obj\Debug\2024_02_13_WPF_Alapok.csproj.AssemblyReference.cache
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\obj\Debug\MainWindow.g.cs
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\obj\Debug\App.g.cs
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\obj\Debug\2024_02_13_WPF_Alapok_MarkupCompile.cache
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\obj\Debug\2024_02_13_WPF_Alapok_MarkupCompile.lref
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\obj\Debug\MainWindow.baml
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\obj\Debug\2024_02_13_WPF_Alapok.g.resources
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\obj\Debug\_2024_02_13_WPF_Alapok.Properties.Resources.resources
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\obj\Debug\2024_02_13_WPF_Alapok.csproj.GenerateResource.cache
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\obj\Debug\2024_02_13_WPF_Alapok.csproj.CoreCompileInputs.cache
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\obj\Debug\2024_02_13_WPF_Alapok.exe
+h:\2023-2024\12.c AAF\2024_02_13_WPF_Alapok\2024_02_13_WPF_Alapok\obj\Debug\2024_02_13_WPF_Alapok.pdb
