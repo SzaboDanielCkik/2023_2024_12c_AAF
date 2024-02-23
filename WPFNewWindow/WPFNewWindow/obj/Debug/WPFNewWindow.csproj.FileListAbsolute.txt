@@ -1,0 +1,17 @@
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\bin\Debug\WPFNewWindow.exe.config
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\bin\Debug\WPFNewWindow.exe
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\bin\Debug\WPFNewWindow.pdb
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\WPFNewWindow.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\DetailsWindow.g.cs
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\MainWindow.g.cs
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\App.g.cs
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\WPFNewWindow_MarkupCompile.cache
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\WPFNewWindow_MarkupCompile.lref
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\DetailsWindow.baml
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\MainWindow.baml
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\WPFNewWindow.g.resources
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\WPFNewWindow.Properties.Resources.resources
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\WPFNewWindow.csproj.GenerateResource.cache
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\WPFNewWindow.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\WPFNewWindow.exe
+H:\2023-2024\12.c AAF\WPFNewWindow\WPFNewWindow\obj\Debug\WPFNewWindow.pdb

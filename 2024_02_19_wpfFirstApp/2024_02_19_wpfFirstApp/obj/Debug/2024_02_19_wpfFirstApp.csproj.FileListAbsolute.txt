@@ -1,0 +1,15 @@
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\bin\Debug\2024_02_19_wpfFirstApp.exe.config
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\bin\Debug\2024_02_19_wpfFirstApp.exe
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\bin\Debug\2024_02_19_wpfFirstApp.pdb
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\obj\Debug\2024_02_19_wpfFirstApp.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\obj\Debug\MainWindow.g.cs
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\obj\Debug\App.g.cs
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\obj\Debug\2024_02_19_wpfFirstApp_MarkupCompile.cache
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\obj\Debug\2024_02_19_wpfFirstApp_MarkupCompile.lref
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\obj\Debug\MainWindow.baml
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\obj\Debug\2024_02_19_wpfFirstApp.g.resources
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\obj\Debug\_2024_02_19_wpfFirstApp.Properties.Resources.resources
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\obj\Debug\2024_02_19_wpfFirstApp.csproj.GenerateResource.cache
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\obj\Debug\2024_02_19_wpfFirstApp.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\obj\Debug\2024_02_19_wpfFirstApp.exe
+H:\2023-2024\12.c AAF\2024_02_19_wpfFirstApp\2024_02_19_wpfFirstApp\obj\Debug\2024_02_19_wpfFirstApp.pdb

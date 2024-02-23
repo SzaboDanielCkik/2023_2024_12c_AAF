@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid x:Name="GridMain">
-        <Button x:Name="btnpl" Content="Button" HorizontalAlignment="Left" 
+        <Button Content="Button" HorizontalAlignment="Left" 
                 Margin="10,10,0,0" VerticalAlignment="Top" 
                 Width="139" Height="48" Click="Button_Click" 
                 MouseEnter="Btn_MouseE"/>
