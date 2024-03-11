@@ -1,0 +1,19 @@
+﻿<RibbonWindow x:Class="WpfRibbon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfRibbon"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Ribbon>
+            <RibbonTab Header="Kezdőlap">
+                <RibbonGroup Header="Csoport1" Width="100" Height="86" Margin="0,0,0,1" VerticalAlignment="Bottom">
+                    <RibbonButton Width="20" Height="20" Label="B" FontWeight="Bold" Click="RibbonButton_Click"/>
+                </RibbonGroup>
+            </RibbonTab>
+        </Ribbon>
+        <RichTextBox Name="rtbText" Margin="0,138,0,0" />
+    </Grid>
+</RibbonWindow>

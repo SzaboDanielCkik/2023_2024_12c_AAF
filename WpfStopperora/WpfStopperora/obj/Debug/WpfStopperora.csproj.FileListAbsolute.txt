@@ -1,0 +1,15 @@
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\bin\Debug\WpfStopperora.exe.config
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\bin\Debug\WpfStopperora.exe
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\bin\Debug\WpfStopperora.pdb
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\obj\Debug\WpfStopperora.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\obj\Debug\MainWindow.g.cs
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\obj\Debug\App.g.cs
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\obj\Debug\WpfStopperora_MarkupCompile.cache
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\obj\Debug\WpfStopperora_MarkupCompile.lref
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\obj\Debug\MainWindow.baml
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\obj\Debug\WpfStopperora.g.resources
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\obj\Debug\WpfStopperora.Properties.Resources.resources
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\obj\Debug\WpfStopperora.csproj.GenerateResource.cache
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\obj\Debug\WpfStopperora.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\obj\Debug\WpfStopperora.exe
+H:\2023-2024\12.c AAF\WpfStopperora\WpfStopperora\obj\Debug\WpfStopperora.pdb

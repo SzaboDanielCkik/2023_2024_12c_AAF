@@ -1,0 +1,68 @@
+﻿<Window x:Class="_2024_03_11_ElrendezesVezerlok_Panelek.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2024_03_11_ElrendezesVezerlok_Panelek"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="500">
+
+    <DockPanel LastChildFill="True">
+        <WrapPanel DockPanel.Dock="Top">
+            <Button>menu1</Button>
+            <Button>menu2</Button>
+            <Button>menu3</Button>
+            <Button>menu4</Button>
+        </WrapPanel>
+        <StackPanel DockPanel.Dock="Left">
+            <Button>menu1</Button>
+            <Button>menu2</Button>
+            <Button>menu3</Button>
+            <Button>menu4</Button>            
+        </StackPanel>
+        <DockPanel DockPanel.Dock="Bottom">
+            <Button>lábléc</Button>
+        </DockPanel>
+        <DockPanel DockPanel.Dock="Right">
+            <Button DockPanel.Dock="top">alma</Button>
+            <Button DockPanel.Dock="top">alma</Button>
+            <Button DockPanel.Dock="top">alma</Button>
+            <Button DockPanel.Dock="top">alma</Button>
+        </DockPanel>
+        <ListBox DockPanel.Dock="Right">gomb5</ListBox>        
+    </DockPanel>
+    
+    
+    <!--<WrapPanel>
+        <Button Width="120">alma</Button>
+        <Button Width="120">alma</Button>
+        <Button Width="120">alma</Button>
+        <Button Width="120">alma</Button>
+        <Button Width="120">alma</Button>
+        <Button Width="120">alma</Button>
+    </WrapPanel>-->
+    
+    
+    <!--<StackPanel Orientation="Horizontal" FlowDirection="LeftToRight">
+        <Button>gomb1</Button>
+        <Button>
+            <Button.RenderTransform>
+                <RotateTransform Angle="-15"/>
+            </Button.RenderTransform>
+            gomb2
+        </Button>
+        <Button>
+            gomb3
+        </Button>
+        <Button>gomb4</Button>
+        <Button Width="100">
+            <Button.LayoutTransform>
+                <RotateTransform Angle="-15"/>
+            </Button.LayoutTransform> 
+            gomb5
+        </Button>
+        <Button>gomb6</Button>
+    </StackPanel>-->
+    
+    
+</Window>

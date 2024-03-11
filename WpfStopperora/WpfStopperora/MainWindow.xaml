@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfStopperora.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfStopperora"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="350">
+    <Grid>
+        <Button Content="Kör" IsEnabled="False" HorizontalAlignment="Left" Margin="50,380,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Indítás" HorizontalAlignment="Left" Margin="225,380,0,0" VerticalAlignment="Top" Width="75"/>
+        <ListBox Height="243" Margin="0,121,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" Margin="0,38,0,0" VerticalAlignment="Top" Height="46" Width="342" HorizontalContentAlignment="Center" FontSize="25"/>
+        <ComboBox Name="themeCombo" HorizontalAlignment="Left" VerticalAlignment="Top" Width="153" Margin="179,10,0,0">
+            <ComboBoxItem>Világos</ComboBoxItem>
+            <ComboBoxItem>Sötét</ComboBoxItem>
+            <ComboBoxItem>Zöld</ComboBoxItem>
+            <ComboBoxItem>Kék</ComboBoxItem>
+        </ComboBox>
+
+    </Grid>
+</Window>

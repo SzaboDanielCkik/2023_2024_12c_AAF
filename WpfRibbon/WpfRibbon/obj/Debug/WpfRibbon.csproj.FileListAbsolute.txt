@@ -1,0 +1,15 @@
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\bin\Debug\WpfRibbon.exe.config
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\bin\Debug\WpfRibbon.exe
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\bin\Debug\WpfRibbon.pdb
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\obj\Debug\WpfRibbon.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\obj\Debug\MainWindow.g.cs
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\obj\Debug\App.g.cs
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\obj\Debug\WpfRibbon_MarkupCompile.cache
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\obj\Debug\WpfRibbon_MarkupCompile.lref
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\obj\Debug\MainWindow.baml
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\obj\Debug\WpfRibbon.g.resources
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\obj\Debug\WpfRibbon.Properties.Resources.resources
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\obj\Debug\WpfRibbon.csproj.GenerateResource.cache
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\obj\Debug\WpfRibbon.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\obj\Debug\WpfRibbon.exe
+H:\2023-2024\12.c AAF\WpfRibbon\WpfRibbon\obj\Debug\WpfRibbon.pdb

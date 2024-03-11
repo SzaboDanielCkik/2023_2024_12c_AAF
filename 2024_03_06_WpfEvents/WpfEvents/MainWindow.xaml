@@ -1,0 +1,58 @@
+﻿<Window x:Class="WpfEvents.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfEvents"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="530.333" Width="792.667"
+        KeyDown="Window_KeyDown" >
+    <!--Rövid megoldáshoz. Ez csak billentyű leütést néz.-->
+
+
+
+    <Window.InputBindings> <!--A megadott billentyű parancsra command-ot készít! Máshol is felhasználható.-->
+        <!--<KeyBinding Command="{Binding SomeCommand}" Key="F5"/>-->
+        <KeyBinding Command="{Binding SomeCommand}" Modifiers="Ctrl" Key="f"/>
+    </Window.InputBindings>
+    
+    
+    
+    <Window.CommandBindings>
+        <CommandBinding Command="Open" Executed="CommandBinding_Executed"/>
+        <CommandBinding Command="Save" Executed="CommandBinding_Executed_1" CanExecute="CommandBinding_CanExecute"/>
+    </Window.CommandBindings>
+
+    <!--<Grid ButtonBase.Click="Grid_Click">-->
+    <Grid>
+        <!--Esemény típusok
+            - bubbling
+            - direct events (mouse move, mouse leave, ...)
+            - tunneling event (bubbling események fordított bejárása, az őszülőtől indul.
+                Azok az esemény amelyek el vannak látva preview kulcsszóval pl. PreviewMouseDown
+        -->
+        <!-- Command-ok - Magas szintű események - nem direkt események -->
+        <Menu Margin="10,0,0,0">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Open" Command="Open" />
+                <MenuItem Header="_Save" Command="Save"/>
+            </MenuItem>
+            <MenuItem Header="Edit"/>
+        </Menu>
+        <ToolBar Height="30" Margin="10,20,0,0" VerticalAlignment="Top">
+            <Button Command="Open">Open</Button>
+            <Button Command="Save">Save</Button>
+        </ToolBar>
+        <TextBox Name="txt" Margin="10,55,91,0" TextWrapping="Wrap" Text="TextBox"/>
+        
+        <Button Content="OK" Margin="698,297,28,176" IsDefault="True" Click="Button_Click_1"/>
+        <Button Content="HP" Margin="0,176,11,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="74" Click="Button_Click_3"/>
+        <Button Content="Cancel" Margin="698,340,28,134" IsCancel="True" Click="Button_Click_2"/>
+        <Button Content="Dell" Margin="0,83,11,0" VerticalAlignment="Top" Click="Button_Click" HorizontalAlignment="Right" Width="75"/>
+        <Button Content="Acer" Margin="0,113,11,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="75"/>
+        <Button Content="Asus" Margin="0,144,11,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="75"/>
+        <Button Content="Lenovo" Margin="0,208,11,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="76"/>
+        <CheckBox Content="CheckBox" Margin="0,239,15,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="71"/>
+        <Label Content="Label" Margin="0,266,28,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="38"/>
+    </Grid>
+</Window>

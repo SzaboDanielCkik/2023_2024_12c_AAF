@@ -1,0 +1,15 @@
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\bin\Debug\2024_03_11_ElrendezesVezerlok_Canvas.exe.config
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\bin\Debug\2024_03_11_ElrendezesVezerlok_Canvas.exe
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\bin\Debug\2024_03_11_ElrendezesVezerlok_Canvas.pdb
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\obj\Debug\2024_03_11_ElrendezesVezerlok_Canvas.csproj.AssemblyReference.cache
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\obj\Debug\MainWindow.g.cs
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\obj\Debug\App.g.cs
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\obj\Debug\2024_03_11_ElrendezesVezerlok_Canvas_MarkupCompile.cache
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\obj\Debug\2024_03_11_ElrendezesVezerlok_Canvas_MarkupCompile.lref
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\obj\Debug\MainWindow.baml
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\obj\Debug\2024_03_11_ElrendezesVezerlok_Canvas.g.resources
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\obj\Debug\_2024_03_11_ElrendezesVezerlok_Canvas.Properties.Resources.resources
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\obj\Debug\2024_03_11_ElrendezesVezerlok_Canvas.csproj.GenerateResource.cache
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\obj\Debug\2024_03_11_ElrendezesVezerlok_Canvas.csproj.CoreCompileInputs.cache
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\obj\Debug\2024_03_11_ElrendezesVezerlok_Canvas.exe
+H:\2023-2024\12.c AAF\2024_03_11_ElrendezesVezerlok_Canvas\2024_03_11_ElrendezesVezerlok_Canvas\obj\Debug\2024_03_11_ElrendezesVezerlok_Canvas.pdb
